@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Игнорировать директорию .idea
+.idea/
+
+
+# Игнорировать кэш Python
+__pycache__/
